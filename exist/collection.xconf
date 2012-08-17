@@ -1,0 +1,9 @@
+<collection xmlns="http://exist-db.org/collection-config/1.0">
+    <index xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:tei="http://www.tei-c.org/ns/1.0">
+        <fulltext default="none" attributes="no"/>
+        <lucene>
+            <text qname="tei:p"/>
+            <text qname="tei:head"/>
+        </lucene>
+    </index>
+</collection>
