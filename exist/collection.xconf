@@ -5,5 +5,6 @@
             <text qname="tei:p"/>
             <text qname="tei:head"/>
         </lucene>
+	<create qname="tei:idno" type="xs:string"/>
     </index>
 </collection>

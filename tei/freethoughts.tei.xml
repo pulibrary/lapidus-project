@@ -7,7 +7,7 @@
         <title>A Digital Transcription of <title level="m">Free Thoughts on the Proceedings of the Continental Congress</title> by Samuel Seabury</title>
       </titleStmt>
       <publicationStmt>
-	<idno>pudl0076/52774</idno>
+	<idno>52774</idno>
 
       </publicationStmt>
       <sourceDesc>
@@ -55,124 +55,124 @@
   </teiHeader>
   <facsimile>
     <surface xml:id="page_image01">
-      <graphic ana="thumbnail" mimeType="png" url="facsimile/png/00000001.png"/>
-      <graphic ana="lowres" mimeType="jpg" url="facsimile/jpg/00000001.jpg"/>
-      <graphic ana="highres" mimeType="jp2" url="facsimile/jp2/00000001.jp2"/>
+      <graphic ana="thumbnail" mimeType="png" url="../facsimiles/52774/png/00000001.png"/>
+      <graphic ana="lowres" mimeType="jpg" url="../facsimiles/52774/jpg/00000001.jpg"/>
+      <graphic ana="highres" mimeType="jp2" url="../facsimiles/52774/jp2/00000001.jp2"/>
     </surface>
     <surface xml:id="page_image02">
-      <graphic ana="thumbnail" mimeType="png" url="facsimile/png/00000002.png"/>
-      <graphic ana="lowres" mimeType="jpg" url="facsimile/jpg/00000002.jpg"/>
-      <graphic ana="highres" mimeType="jp2" url="facsimile/jp2/00000002.jp2"/>
+      <graphic ana="thumbnail" mimeType="png" url="../facsimiles/52774/png/00000002.png"/>
+      <graphic ana="lowres" mimeType="jpg" url="../facsimiles/52774/jpg/00000002.jpg"/>
+      <graphic ana="highres" mimeType="jp2" url="../facsimiles/52774/jp2/00000002.jp2"/>
     </surface>
     <surface xml:id="page_image03">
-      <graphic ana="thumbnail" mimeType="png" url="facsimile/png/00000003.png"/>
-      <graphic ana="lowres" mimeType="jpg" url="facsimile/jpg/00000003.jpg"/>
-      <graphic ana="highres" mimeType="jp2" url="facsimile/jp2/00000003.jp2"/>
+      <graphic ana="thumbnail" mimeType="png" url="../facsimiles/52774/png/00000003.png"/>
+      <graphic ana="lowres" mimeType="jpg" url="../facsimiles/52774/jpg/00000003.jpg"/>
+      <graphic ana="highres" mimeType="jp2" url="../facsimiles/52774/jp2/00000003.jp2"/>
     </surface>
     <surface xml:id="page_image04">
-      <graphic ana="thumbnail" mimeType="png" url="facsimile/png/00000004.png"/>
-      <graphic ana="lowres" mimeType="jpg" url="facsimile/jpg/00000004.jpg"/>
-      <graphic ana="highres" mimeType="jp2" url="facsimile/jp2/00000004.jp2"/>
+      <graphic ana="thumbnail" mimeType="png" url="../facsimiles/52774/png/00000004.png"/>
+      <graphic ana="lowres" mimeType="jpg" url="../facsimiles/52774/jpg/00000004.jpg"/>
+      <graphic ana="highres" mimeType="jp2" url="../facsimiles/52774/jp2/00000004.jp2"/>
     </surface>
     <surface xml:id="page_image05">
-      <graphic ana="thumbnail" mimeType="png" url="facsimile/png/00000005.png"/>
-      <graphic ana="lowres" mimeType="jpg" url="facsimile/jpg/00000005.jpg"/>
-      <graphic ana="highres" mimeType="jp2" url="facsimile/jp2/00000005.jp2"/>
+      <graphic ana="thumbnail" mimeType="png" url="../facsimiles/52774/png/00000005.png"/>
+      <graphic ana="lowres" mimeType="jpg" url="../facsimiles/52774/jpg/00000005.jpg"/>
+      <graphic ana="highres" mimeType="jp2" url="../facsimiles/52774/jp2/00000005.jp2"/>
     </surface>
     <surface xml:id="page_image06">
-      <graphic ana="thumbnail" mimeType="png" url="facsimile/png/00000006.png"/>
-      <graphic ana="lowres" mimeType="jpg" url="facsimile/jpg/00000006.jpg"/>
-      <graphic ana="highres" mimeType="jp2" url="facsimile/jp2/00000006.jp2"/>
+      <graphic ana="thumbnail" mimeType="png" url="../facsimiles/52774/png/00000006.png"/>
+      <graphic ana="lowres" mimeType="jpg" url="../facsimiles/52774/jpg/00000006.jpg"/>
+      <graphic ana="highres" mimeType="jp2" url="../facsimiles/52774/jp2/00000006.jp2"/>
     </surface>
     <surface xml:id="page_image07">
-      <graphic ana="thumbnail" mimeType="png" url="facsimile/png/00000007.png"/>
-      <graphic ana="lowres" mimeType="jpg" url="facsimile/jpg/00000007.jpg"/>
-      <graphic ana="highres" mimeType="jp2" url="facsimile/jp2/00000007.jp2"/>
+      <graphic ana="thumbnail" mimeType="png" url="../facsimiles/52774/png/00000007.png"/>
+      <graphic ana="lowres" mimeType="jpg" url="../facsimiles/52774/jpg/00000007.jpg"/>
+      <graphic ana="highres" mimeType="jp2" url="../facsimiles/52774/jp2/00000007.jp2"/>
     </surface>
     <surface xml:id="page_image08">
-      <graphic ana="thumbnail" mimeType="png" url="facsimile/png/00000008.png"/>
-      <graphic ana="lowres" mimeType="jpg" url="facsimile/jpg/00000008.jpg"/>
-      <graphic ana="highres" mimeType="jp2" url="facsimile/jp2/00000008.jp2"/>
+      <graphic ana="thumbnail" mimeType="png" url="../facsimiles/52774/png/00000008.png"/>
+      <graphic ana="lowres" mimeType="jpg" url="../facsimiles/52774/jpg/00000008.jpg"/>
+      <graphic ana="highres" mimeType="jp2" url="../facsimiles/52774/jp2/00000008.jp2"/>
     </surface>
     <surface xml:id="page_image09">
-      <graphic ana="thumbnail" mimeType="png" url="facsimile/png/00000009.png"/>
-      <graphic ana="lowres" mimeType="jpg" url="facsimile/jpg/00000009.jpg"/>
-      <graphic ana="highres" mimeType="jp2" url="facsimile/jp2/00000009.jp2"/>
+      <graphic ana="thumbnail" mimeType="png" url="../facsimiles/52774/png/00000009.png"/>
+      <graphic ana="lowres" mimeType="jpg" url="../facsimiles/52774/jpg/00000009.jpg"/>
+      <graphic ana="highres" mimeType="jp2" url="../facsimiles/52774/jp2/00000009.jp2"/>
     </surface>
     <surface xml:id="page_image10">
-      <graphic ana="thumbnail" mimeType="png" url="facsimile/png/00000010.png"/>
-      <graphic ana="lowres" mimeType="jpg" url="facsimile/jpg/00000010.jpg"/>
-      <graphic ana="highres" mimeType="jp2" url="facsimile/jp2/00000010.jp2"/>
+      <graphic ana="thumbnail" mimeType="png" url="../facsimiles/52774/png/00000010.png"/>
+      <graphic ana="lowres" mimeType="jpg" url="../facsimiles/52774/jpg/00000010.jpg"/>
+      <graphic ana="highres" mimeType="jp2" url="../facsimiles/52774/jp2/00000010.jp2"/>
     </surface>
     <surface xml:id="page_image11">
-      <graphic ana="thumbnail" mimeType="png" url="facsimile/png/00000011.png"/>
-      <graphic ana="lowres" mimeType="jpg" url="facsimile/jpg/00000011.jpg"/>
-      <graphic ana="highres" mimeType="jp2" url="facsimile/jp2/00000011.jp2"/>
+      <graphic ana="thumbnail" mimeType="png" url="../facsimiles/52774/png/00000011.png"/>
+      <graphic ana="lowres" mimeType="jpg" url="../facsimiles/52774/jpg/00000011.jpg"/>
+      <graphic ana="highres" mimeType="jp2" url="../facsimiles/52774/jp2/00000011.jp2"/>
     </surface>
     <surface xml:id="page_image12">
-      <graphic ana="thumbnail" mimeType="png" url="facsimile/png/00000012.png"/>
-      <graphic ana="lowres" mimeType="jpg" url="facsimile/jpg/00000012.jpg"/>
-      <graphic ana="highres" mimeType="jp2" url="facsimile/jp2/00000012.jp2"/>
+      <graphic ana="thumbnail" mimeType="png" url="../facsimiles/52774/png/00000012.png"/>
+      <graphic ana="lowres" mimeType="jpg" url="../facsimiles/52774/jpg/00000012.jpg"/>
+      <graphic ana="highres" mimeType="jp2" url="../facsimiles/52774/jp2/00000012.jp2"/>
     </surface>
     <surface xml:id="page_image13">
-      <graphic ana="thumbnail" mimeType="png" url="facsimile/png/00000013.png"/>
-      <graphic ana="lowres" mimeType="jpg" url="facsimile/jpg/00000013.jpg"/>
-      <graphic ana="highres" mimeType="jp2" url="facsimile/jp2/00000013.jp2"/>
+      <graphic ana="thumbnail" mimeType="png" url="../facsimiles/52774/png/00000013.png"/>
+      <graphic ana="lowres" mimeType="jpg" url="../facsimiles/52774/jpg/00000013.jpg"/>
+      <graphic ana="highres" mimeType="jp2" url="../facsimiles/52774/jp2/00000013.jp2"/>
     </surface>
     <surface xml:id="page_image14">
-      <graphic ana="thumbnail" mimeType="png" url="facsimile/png/00000014.png"/>
-      <graphic ana="lowres" mimeType="jpg" url="facsimile/jpg/00000014.jpg"/>
-      <graphic ana="highres" mimeType="jp2" url="facsimile/jp2/00000014.jp2"/>
+      <graphic ana="thumbnail" mimeType="png" url="../facsimiles/52774/png/00000014.png"/>
+      <graphic ana="lowres" mimeType="jpg" url="../facsimiles/52774/jpg/00000014.jpg"/>
+      <graphic ana="highres" mimeType="jp2" url="../facsimiles/52774/jp2/00000014.jp2"/>
     </surface>
     <surface xml:id="page_image15">
-      <graphic ana="thumbnail" mimeType="png" url="facsimile/png/00000015.png"/>
-      <graphic ana="lowres" mimeType="jpg" url="facsimile/jpg/00000015.jpg"/>
-      <graphic ana="highres" mimeType="jp2" url="facsimile/jp2/00000015.jp2"/>
+      <graphic ana="thumbnail" mimeType="png" url="../facsimiles/52774/png/00000015.png"/>
+      <graphic ana="lowres" mimeType="jpg" url="../facsimiles/52774/jpg/00000015.jpg"/>
+      <graphic ana="highres" mimeType="jp2" url="../facsimiles/52774/jp2/00000015.jp2"/>
     </surface>
     <surface xml:id="page_image16">
-      <graphic ana="thumbnail" mimeType="png" url="facsimile/png/00000016.png"/>
-      <graphic ana="lowres" mimeType="jpg" url="facsimile/jpg/00000016.jpg"/>
-      <graphic ana="highres" mimeType="jp2" url="facsimile/jp2/00000016.jp2"/>
+      <graphic ana="thumbnail" mimeType="png" url="../facsimiles/52774/png/00000016.png"/>
+      <graphic ana="lowres" mimeType="jpg" url="../facsimiles/52774/jpg/00000016.jpg"/>
+      <graphic ana="highres" mimeType="jp2" url="../facsimiles/52774/jp2/00000016.jp2"/>
     </surface>
     <surface xml:id="page_image17">
-      <graphic ana="thumbnail" mimeType="png" url="facsimile/png/00000017.png"/>
-      <graphic ana="lowres" mimeType="jpg" url="facsimile/jpg/00000017.jpg"/>
-      <graphic ana="highres" mimeType="jp2" url="facsimile/jp2/00000017.jp2"/>
+      <graphic ana="thumbnail" mimeType="png" url="../facsimiles/52774/png/00000017.png"/>
+      <graphic ana="lowres" mimeType="jpg" url="../facsimiles/52774/jpg/00000017.jpg"/>
+      <graphic ana="highres" mimeType="jp2" url="../facsimiles/52774/jp2/00000017.jp2"/>
     </surface>
     <surface xml:id="page_image18">
-      <graphic ana="thumbnail" mimeType="png" url="facsimile/png/00000018.png"/>
-      <graphic ana="lowres" mimeType="jpg" url="facsimile/jpg/00000018.jpg"/>
-      <graphic ana="highres" mimeType="jp2" url="facsimile/jp2/00000018.jp2"/>
+      <graphic ana="thumbnail" mimeType="png" url="../facsimiles/52774/png/00000018.png"/>
+      <graphic ana="lowres" mimeType="jpg" url="../facsimiles/52774/jpg/00000018.jpg"/>
+      <graphic ana="highres" mimeType="jp2" url="../facsimiles/52774/jp2/00000018.jp2"/>
     </surface>
     <surface xml:id="page_image19">
-      <graphic ana="thumbnail" mimeType="png" url="facsimile/png/00000019.png"/>
-      <graphic ana="lowres" mimeType="jpg" url="facsimile/jpg/00000019.jpg"/>
-      <graphic ana="highres" mimeType="jp2" url="facsimile/jp2/00000019.jp2"/>
+      <graphic ana="thumbnail" mimeType="png" url="../facsimiles/52774/png/00000019.png"/>
+      <graphic ana="lowres" mimeType="jpg" url="../facsimiles/52774/jpg/00000019.jpg"/>
+      <graphic ana="highres" mimeType="jp2" url="../facsimiles/52774/jp2/00000019.jp2"/>
     </surface>
     <surface xml:id="page_image20">
-      <graphic ana="thumbnail" mimeType="png" url="facsimile/png/00000020.png"/>
-      <graphic ana="lowres" mimeType="jpg" url="facsimile/jpg/00000020.jpg"/>
-      <graphic ana="highres" mimeType="jp2" url="facsimile/jp2/00000020.jp2"/>
+      <graphic ana="thumbnail" mimeType="png" url="../facsimiles/52774/png/00000020.png"/>
+      <graphic ana="lowres" mimeType="jpg" url="../facsimiles/52774/jpg/00000020.jpg"/>
+      <graphic ana="highres" mimeType="jp2" url="../facsimiles/52774/jp2/00000020.jp2"/>
     </surface>
     <surface xml:id="page_image21">
-      <graphic ana="thumbnail" mimeType="png" url="facsimile/png/00000021.png"/>
-      <graphic ana="lowres" mimeType="jpg" url="facsimile/jpg/00000021.jpg"/>
-      <graphic ana="highres" mimeType="jp2" url="facsimile/jp2/00000021.jp2"/>
+      <graphic ana="thumbnail" mimeType="png" url="../facsimiles/52774/png/00000021.png"/>
+      <graphic ana="lowres" mimeType="jpg" url="../facsimiles/52774/jpg/00000021.jpg"/>
+      <graphic ana="highres" mimeType="jp2" url="../facsimiles/52774/jp2/00000021.jp2"/>
     </surface>
     <surface xml:id="page_image22">
-      <graphic ana="thumbnail" mimeType="png" url="facsimile/png/00000022.png"/>
-      <graphic ana="lowres" mimeType="jpg" url="facsimile/jpg/00000022.jpg"/>
-      <graphic ana="highres" mimeType="jp2" url="facsimile/jp2/00000022.jp2"/>
+      <graphic ana="thumbnail" mimeType="png" url="../facsimiles/52774/png/00000022.png"/>
+      <graphic ana="lowres" mimeType="jpg" url="../facsimiles/52774/jpg/00000022.jpg"/>
+      <graphic ana="highres" mimeType="jp2" url="../facsimiles/52774/jp2/00000022.jp2"/>
     </surface>
     <surface xml:id="page_image23">
-      <graphic ana="thumbnail" mimeType="png" url="facsimile/png/00000023.png"/>
-      <graphic ana="lowres" mimeType="jpg" url="facsimile/jpg/00000023.jpg"/>
-      <graphic ana="highres" mimeType="jp2" url="facsimile/jp2/00000023.jp2"/>
+      <graphic ana="thumbnail" mimeType="png" url="../facsimiles/52774/png/00000023.png"/>
+      <graphic ana="lowres" mimeType="jpg" url="../facsimiles/52774/jpg/00000023.jpg"/>
+      <graphic ana="highres" mimeType="jp2" url="../facsimiles/52774/jp2/00000023.jp2"/>
     </surface>
     <surface xml:id="page_image24">
-      <graphic ana="thumbnail" mimeType="png" url="facsimile/png/00000024.png"/>
-      <graphic ana="lowres" mimeType="jpg" url="facsimile/jpg/00000024.jpg"/>
-      <graphic ana="highres" mimeType="jp2" url="facsimile/jp2/00000024.jp2"/>
+      <graphic ana="thumbnail" mimeType="png" url="../facsimiles/52774/png/00000024.png"/>
+      <graphic ana="lowres" mimeType="jpg" url="../facsimiles/52774/jpg/00000024.jpg"/>
+      <graphic ana="highres" mimeType="jp2" url="../facsimiles/52774/jp2/00000024.jp2"/>
     </surface>
 
   </facsimile>
@@ -233,7 +233,7 @@
 	<salute>My Friends and Countrymen,</salute>
 	
 	<p>PERMIT me to address you upon a subject, which, next to
-	your eternal welfare in a suture world, demands your most
+	your eternal welfare in a future world, demands your most
 	serious and dispassionate consideration. The American Colonies
 	are unhappily involved in a scene of confusion and
 	discord. The bands of civil society are broken; the authority
@@ -604,7 +604,7 @@
 	  enough to attempt to regulate the price of Tea, at that
 	  time.  Did they succeed ? No.  There was not honour enough
 	  in the body of merchants to bring it to
-	  effect. Messrs. <gap/> declared at the CofFee-House, that
+	  effect. Messrs. <gap/> declared at the Coffee-House, that
 	  they would be bound by no regulations. They would have their
 	  own price for their tea. They had it. And common bohea was
 	  sold at the enormous price of nine shillings the pound. Will
@@ -1027,7 +1027,7 @@
 	  with the advice of his Privy Council aforesaid, will issue
 	  his Mandate to the supervisors in the several counties, as
 	  he did about the choice of Delegates, and direct them to
-	  have Committees chosen in their respective diltricts, for
+	  have Committees chosen in their respective districts, for
 	  the same laudable purpose.</p>
 
 	  <p>Will you be instrumental in bringing the most abject
