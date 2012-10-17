@@ -4,6 +4,8 @@
         <lucene>
             <text qname="tei:p"/>
             <text qname="tei:head"/>
+            <text qname="tei:text"/>
+            <text qname="tei:teiHeader"/>
         </lucene>
 	<create qname="tei:idno" type="xs:string"/>
     </index>
