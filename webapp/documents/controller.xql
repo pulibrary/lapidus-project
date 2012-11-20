@@ -83,6 +83,7 @@ else if (request:get-parameter('containing', ())) then
   </view>
 </dispatch>
 
+
 else if ($exist:resource) then
 <dispatch xmlns="http://exist.sourceforge.net/NS/exist">
   <forward url="getdoc.xql">
@@ -95,9 +96,16 @@ else if ($exist:resource) then
       <set-attribute name="xslt.input" value="model"/>
     </forward>
   </view>
-
 </dispatch>
 
+(:
+else if ($exist:resource) then
+<dispatch xmlns="http://exist.sourceforge.net/NS/exist">
+  <forward url="getdoc.xql">
+    <add-parameter name="id" value="{$exist:resource}"/>
+  </forward>
+</dispatch>
+:)
 else
 (:   <ignore xmlns="http://exist.sourceforge.net/NS/exist"/>  :)
 <dispatch xmlns="http://exist.sourceforge.net/NS/exist">
