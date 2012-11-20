@@ -1,59 +1,77 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-    <title>Lapidus Project</title>
-    <!-- Bootstrap -->
-    <link href="css/bootstrap.min.css" rel="stylesheet"/>
-  </head>
-  <body>
-    <header>
-      <h1>The Sid Lapidus Digital Collection</h1>
-    </header>
-    <div class="container-fluid">
-      <div class="row-fluid">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<title>Lapidus Project</title>
+		<!-- Bootstrap -->
+		<link href="css/bootstrap.min.css" rel="stylesheet" />
+	</head>
+	<body>
+		<header>
+			<h1>The Sid Lapidus Digital Collection</h1>
+		</header>
+		<div class="container-fluid">
+			<div class="row-fluid">
 
-	<div class="span2">
-	  <nav>
-	    <ul>
-	      <li><a href="documents">Catalog of Documents</a></li>
-	    </ul>
-	  </nav>
-	</div>
+				<div class="span2">
+					<nav>
+						<ul>
+							<li>
+								<a href="documents">Catalog of Documents</a>
+							</li>
+						</ul>
+					</nav>
+				</div>
+<!--
+				<div class="span10">
+					<div class="span5">
+						<nav>
+							<h2>Catalog Search</h2>
+							<form action="documents" method="GET">
+								<p> Search information <strong>about</strong> the items. <input
+										name="about" type="search" />
+								</p>
+								<p>
+									<input type="submit" value="Search" />
+								</p>
+							</form>
+						</nav>
+					</div>
+					<div class="span5">
+						<nav>
+							<h2>Full-Text Search</h2>
+							<form action="documents" method="GET">
+								<p> Search for words that occur <strong>within</strong> the items.
+										<input name="containing" type="search" />
+								</p>
+								<p>
+									<input type="submit" value="Search" />
+								</p>
+							</form>
+						</nav>
+					</div>
+				</div>
+			</div>
+		 -->
 
-	<div class="span10">
-	  <div class="span5">
-	    <nav>
-	      <h2>Catalog Search</h2>
-	      <form action="documents" method="GET">
-		<p>
-		  Search information <strong>about</strong> the items.
-		  <input name="about" type="search"/>
-		</p>
-		<p>
-		  <input type="submit" value="Search" />
-		</p>
-	      </form>
-	    </nav>
-	  </div>
-	  <div class="span5">
-	    <nav>
-	      <h2>Full-Text Search</h2>
-	      <form action="documents" method="GET">
-		<p>
-		  Search for words that occur <strong>within</strong> the items.
-		  <input name="containing" type="search"/>
-		</p>
-		<p>
-		  <input type="submit" value="Search" />
-		</p>
-	      </form>
-	    </nav>	    
-	  </div>
-	</div>
-      </div>
-    </div>
-    <script src="http://code.jquery.com/jquery-latest.js"></script>
-    <script src="js/bootstrap.min.js"></script>
-  </body>
+
+		  <div class="span10">
+		   <nav>
+		    <h2>Full-Text Search</h2>
+		    <form action="documents" method="GET">
+		     <p> Search for words that occur <strong>within</strong> the items.
+		      <input name="containing" type="search" />
+		     </p>
+		     <p>
+		      <input type="submit" value="Search" />
+		     </p>
+		    </form>
+		   </nav>
+		  </div>
+		 
+		</div>
+		</div>
+		<script src="http://code.jquery.com/jquery-latest.js"></script>
+		<script src="js/bootstrap.min.js"></script>
+	</body>
 </html>
